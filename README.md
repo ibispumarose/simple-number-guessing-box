@@ -1,2 +1,9 @@
-# simple-number-guessing-box
-A simple number guessing project
+# Number Guessing
+
+A simple number guessing project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
